@@ -1,0 +1,13 @@
+body
+{
+	text-align: justify;
+	margin: 10%;
+	width: 80%;
+
+}
+
+h1
+{
+	color: #273c75;
+	font-style: italic;
+}
