@@ -14,5 +14,7 @@ Maquette d'un site simple
 	<p>Pour apprendre comment faire si vous ne savez pas deja rendez-vous sur <a href="https://openclassrooms.com/fr/dashboard" target="_blank"> Openclassrooms</a></p>
 	
 	<br>
+	
+	<p><img src="https://www.bing.com/images/search?view=detailV2&ccid=xHRpuOz4&id=DF592EBFFF5FD9ADF481BA8EA2DF0EE6FB22217D&thid=OIP.xHRpuOz4X0J6f0DfzfvkbAAAAA&mediaurl=http%3a%2f%2fpucca78000.p.u.pic.centerblog.net%2fhouet1fj.gif&exph=330&expw=378&q=salut&simid=608034855201866944&selectedIndex=5" title="Salut"></p>
 </body>
 </html>
